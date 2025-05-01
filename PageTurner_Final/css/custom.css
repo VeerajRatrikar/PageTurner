@@ -1,0 +1,97 @@
+h3
+{
+  padding:15px;
+}
+
+p
+{
+  word-wrap: break-word;
+}
+
+
+.section2
+{
+  clear: left;
+}
+
+#recent
+{
+  width: 90%;
+  margin: auto;
+}
+
+#recentRow
+{
+  width: 95%;
+  padding: 25px;
+  margin: auto
+}
+
+.Promo
+{
+  text-align: center;
+  margin: 5%
+}
+
+.Welcome
+{
+  text-align: center;
+  margin: 5%
+}
+
+.textPromo
+{
+  text-align: center;
+  float: right;
+}
+
+
+.textWelcome
+{
+  text-align: center;
+  float: right;
+}
+
+.listPromo
+{
+  float: right;
+  /*width: 30%;*/
+}
+
+.listPromo li
+{
+  padding: 10px;
+}
+
+.list
+{
+  position: relative;
+  left: -20%;
+}
+
+
+.imageWelcome
+{
+  float: right;
+}
+
+#image1
+{
+  height: 40%;
+  width: 40%;
+  margin: auto;
+  vertical-align: middle;
+}
+
+#recentP
+{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  vertical-align: middle;
+}
+
+#form
+{
+  padding: 15px;
+}
